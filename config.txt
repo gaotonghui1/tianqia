@@ -3,7 +3,7 @@
 # 公众号appId
 "app_id": "wxcd072f3d4977bd20",
 # 公众号appSecret
-"app_secret": "81945878bfcc04d4bf331c1e7465720a",
+"app_secret": "2005d1b7e5098e60073ee0e2e99e0276",
 # 模板消息id
 "template_id": "dXGdExFKETvF2FSqJ7JL5DdGUVmx6KzN9KMDMLbwroc",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
@@ -14,7 +14,7 @@
 "weather_key": "	
 2c3c8aee89d04303b9cbe04596a1433b",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region": "四川省",
+"region": "达州市",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "我亲爱的刘佳韦幺儿", "birthday": "2001-01-16"},
 # 生日2
